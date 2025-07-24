@@ -1,5 +1,4 @@
 package com.tnsif.dayfour.thirdpackage;
-
 public class PrivateConstructorDemo {
 	public static void main(String s[]) {
 		// Can't create object with private constructor
