@@ -34,4 +34,23 @@ public class Person {
 		System.out.println("Address: " + address.getStreet() + ", " + address.getCity() + ", " + address.getState()
 				+ " " + address.getPostalCode());
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
