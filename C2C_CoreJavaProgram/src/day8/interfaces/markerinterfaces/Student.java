@@ -51,7 +51,7 @@ public class Student implements Registrable {
 		this.course = course;
 	}
 
-	@Override
+
 	public String toString() {
 		return "Student [id=" + id + ", name=" + name + ", fees=" + fees + ", course=" + course + "]";
 	}
